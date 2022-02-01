@@ -3,6 +3,7 @@
 Citizen sensor network
 
 – https://thecynefin.co/how-to-create-a-citizen-sensor-network/
+
 – https://cdn.cognitive-edge.com/wp-content/uploads/sites/2/2021/11/25170519/Citizen-Sensor-Network-1.pdf
 
 Role of network in commons governance
