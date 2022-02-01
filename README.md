@@ -8,7 +8,7 @@ Citizen sensor network
 
 Role of network in commons governance
 
-– academia.edu/23899026/Understanding_the_pre_conditions_of_commons_governance_The_role_of_network_management
+– https://academia.edu/23899026/Understanding_the_pre_conditions_of_commons_governance_The_role_of_network_management
 
 Leverage points for transformation of systems
 
